@@ -1,5 +1,6 @@
 package edu.northeastern.setup;
 
+
 /**
  * The one thing you edit this week: put your name in {@link #STUDENT_NAME} so the
  * app greets you by name. That is the whole assignment — the point is to get the
@@ -12,7 +13,7 @@ package edu.northeastern.setup;
  */
 public final class Greeting {
 
-  private static final String STUDENT_NAME = "YOUR NAME HERE";
+  private static final String STUDENT_NAME = "Pedro";
 
   private Greeting() {
     // utility class: no instances
